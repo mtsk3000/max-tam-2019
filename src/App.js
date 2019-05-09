@@ -84,7 +84,7 @@ with Vizibl</BigText>
           </CompanyCard>
           <CompanyCard>
             <div>IMG</div>
-            <BigText>Crowdsourced user-generated content for enterprise with Seenit</BigText>
+            <BigText>Enabled communities to generate authentic video content for enterprises with Seenit</BigText>
           </CompanyCard>
 
         </div>
